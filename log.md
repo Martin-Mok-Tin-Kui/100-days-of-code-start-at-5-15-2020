@@ -9,4 +9,5 @@
 
 **Reference**
 1. [freeCodeCamp Challenge Guide: Cash Register
-](https://www.freecodecamp.org/forum/t/freecodecamp-challenge-guide-cash-register/16012)
+](https://www.freecodecamp.org/forum/t/freecodecamp-challenge-guide-cash-register/16012)  
+2. [Solving FreeCodeCamp.org’s Final Project Challenge: Cash Register](https://medium.com/@chyanpin/solving-freecodecamp-orgs-final-project-challenge-cash-register-d6ecb941d966)
