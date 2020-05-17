@@ -14,7 +14,7 @@
 
 ### Day 2: May 16, Saturday
 
-**Today's Progress**: I try to implement the Depth-first search to find all the path from one node to another in an undirected graph.
+**Today's Progress**: I try to implement the Depth-first search to find all the paths from one node to another in an undirected graph.
 
 **Thoughts**: I've tried to understand when to use differnet graph representation: Edge lists, Adjacency matrices and Adjacency lists. Use integer as graph labeling. Tried to implement recursive Depth-first search without the need to use stack. Keep a visited node list so as to prevent cyclic recursion of the program.
 
