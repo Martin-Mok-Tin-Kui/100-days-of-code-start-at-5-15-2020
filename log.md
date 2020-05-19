@@ -40,13 +40,15 @@
 
 ### Day 4: May 19, Monday
 
-**Today's Progress**: 
+**Today's Progress**: Used create-react-app to get json data from an URL endpoint, and displayed them as a list. refreshed CSS flexbox layout and how to do 2D layout with flexbox inside flexbox.
 
-**Thoughts**: 
+**Thoughts**: React JSX component make server-side rendering and complex UI building very simple and structured using OOP concepts, and we can use the javascript objects and variables inside JSX is elegant. React and Javascript Syntax and structure are clearner and easier to read then PHP or JSP. The Fetch API is also more readable that AJAX API.
 
 **Link to work**
-1. [find-all-path-of-a-graph-with-DFS](https://github.com/Martin-Mok-Tin-Kui/programming-test/blob/master/web%20soln/find-all-path-of-a-graph-with-DFS.md)  
+1. 
 
 **Reference**
-1. [Data Structures in JavaScript: Graphs](https://medium.com/better-programming/basic-interview-data-structures-in-javascript-graphs-3f9118aeb078)  
-2. [Print all paths from a given source to a destination](https://www.geeksforgeeks.org/find-paths-given-source-destination/)  
+1. [Nested Flex Containers with Flexbox](https://www.qhmit.com/css/flexbox/tutorial/nested_flex_containers.cfm)  
+2. [Fetching API Data with React.JS](https://blog.hellojs.org/fetching-api-data-with-react-js-460fe8bbf8f2)  
+3. [React AJAX and APIs](https://reactjs.org/docs/faq-ajax.html)  
+4. [JSX In Depth](https://reactjs.org/docs/jsx-in-depth.html)  
