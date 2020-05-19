@@ -38,11 +38,11 @@
 1. [Data Structures in JavaScript: Graphs](https://medium.com/better-programming/basic-interview-data-structures-in-javascript-graphs-3f9118aeb078)  
 2. [Print all paths from a given source to a destination](https://www.geeksforgeeks.org/find-paths-given-source-destination/)  
 
-### Day 4: May 18, Monday
+### Day 4: May 19, Monday
 
 **Today's Progress**: 
 
-**Thoughts**: I used javascript Map of Set to create the adjacency list for the graph, and used an allPath array to store the paths. The dfs start at any chosen node and eventually find all the paths with the constraint that the end node is the node that all the neighbours were visited. The base case for terminating the recursion is that the current node have no unvisited neighbours.
+**Thoughts**: 
 
 **Link to work**
 1. [find-all-path-of-a-graph-with-DFS](https://github.com/Martin-Mok-Tin-Kui/programming-test/blob/master/web%20soln/find-all-path-of-a-graph-with-DFS.md)  
