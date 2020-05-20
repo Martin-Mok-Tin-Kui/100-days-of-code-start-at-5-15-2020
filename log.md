@@ -66,8 +66,8 @@ Used object destructuring for props and state object.
 Found out how to check for empty object by JSON.stringify(item) === '{}' or Object.keys(obj).length === 0.
 
 **Thoughts**: 
-React change the tranditional DOM selection and manipulation in vanilla javascript by state handling in each components and div replacement as well as inserting JSON data so easy by JSX.
-I found out that if I want to add a marker to google map and show it on one component, I have to open a billing account to use the google map api. Google should provide a free testing key with limitation so that I won't afarid of being charged when I forget to shutdown the website after testhttps://reactjs.org/docs/faq-internals.html
+React change the tranditional DOM selection and manipulation in vanilla javascript by state handling in each components and div replacement as well as inserting JSON data so easy by JSX.  
+Also, I found out that if I want to add a marker to google map and show it on one component, I have to open a billing account to use the google map api. Google should provide a free testing key with limitation so that I won't afarid of being charged when I forget to shutdown the website after testhttps://reactjs.org/docs/faq-internals.html
 
 **Link to work**
 1. [moovup-web-test-app](https://github.com/Martin-Mok-Tin-Kui/moovup-web-test-app)
